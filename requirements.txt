@@ -1,0 +1,6 @@
+dash
+plotly
+pandas
+dash_mantine_components
+pyproj
+pydantic
